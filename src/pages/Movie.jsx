@@ -51,13 +51,13 @@ const Movie = () => {
           </div>
           <div className="info">
             <h3>
-              <BsHourglassSplit /> Receita:
+              <BsGraphUp /> Receita:
             </h3>
             <p>{formatCurrency(movie.revenue)}</p>
           </div>
           <div className="info">
             <h3>
-              <BsGraphUp /> Duração:
+              <BsHourglassSplit /> Duração:
             </h3>
             <p>{movie.runtime} minutos</p>
           </div>
