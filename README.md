@@ -1,5 +1,7 @@
 # Best Films Ranking
 
+**Deploy online:** (https://best-films-ranking.vercel.app/)
+  
 Aplicação web desenvolvida com React que consome a API do The Movie Database (TMDB) para exibir os filmes mais bem avaliados.
 
 ## Funcionalidades
